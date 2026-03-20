@@ -1,5 +1,5 @@
 <h1 align="center">Lucas de Castro Silva</h1>
-<h3 align="center">GPSI Student • Gen AI Intern at WIT Software • C# / .NET Developer</h3>
+<h3 align="center">GPSI Student • Gen AI Intern at WIT Software • C#, .NET, Python and AI Projects</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lucas-de-castro-s">
