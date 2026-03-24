@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&lines=Building+practical+software+projects;Focused+on+C%23%2C+.NET%2C+SQL+and+Web+Development;Gen+AI+Intern+at+WIT+Software;Always+learning%2C+building+and+improving" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&lines=Building+practical+software+projects;Focused+on+C%23%2C+.NET%2C+SQL+and+Backend+Development;Gen+AI+Intern+at+WIT+Software;Always+learning%2C+building+and+improving" alt="Typing SVG" />
 </p>
 
 ---
@@ -18,8 +18,8 @@
 
 I am a **GPSI student** at **Escola Secundária Avelar Brotero** and currently a **Generative AI Intern at WIT Software**.
 
-I enjoy building practical and well-structured software projects, with a strong focus on **C#**, **.NET**, **SQL**, and **web development**.  
-I am continuously improving my technical skills by creating real projects, refining my code structure, and learning more about **software development** and **Generative AI**.
+I enjoy building practical and well-structured software projects, with a strong focus on **C#**, **.NET**, **SQL**, **backend development**, and **AI-powered applications**.  
+I am continuously improving my technical skills by creating real projects, refining my code structure, and learning more about **software architecture**, **APIs**, and **Generative AI**.
 
 ---
 
@@ -28,9 +28,9 @@ I am continuously improving my technical skills by creating real projects, refin
 <p>
   <img src="https://img.shields.io/badge/C%23-111111?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-111111?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASP.NET-111111?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-111111?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL%20Server-111111?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Ollama-111111?style=for-the-badge&logo=ollama&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=white" />
@@ -43,8 +43,8 @@ I am continuously improving my technical skills by creating real projects, refin
 ## What I’m Focused On
 
 - Building practical applications with **C#** and **.NET**
-- Improving my knowledge of **SQL** and database-driven systems
-- Developing cleaner and more complete software projects
+- Improving my knowledge of **SQL**, **MySQL**, and database-driven systems
+- Developing cleaner, better-structured, and more complete software projects
 - Expanding my experience in **Generative AI**
 - Strengthening my portfolio with real and useful work
 
@@ -52,10 +52,11 @@ I am continuously improving my technical skills by creating real projects, refin
 
 ## Featured Areas
 
-- **Desktop Applications** with C# and Windows Forms
-- **Database Projects** using SQL and structured data
-- **Web Development** with HTML, CSS and JavaScript
-- **Practical Software Projects** focused on learning and improvement
+- **Backend Development** with C# and .NET
+- **ASP.NET Core Web API** and authentication flows
+- **SQL / MySQL** and database modeling
+- **Python, FastAPI, and local AI applications**
+- **Practical Software Projects** focused on real use cases
 
 ---
 
