@@ -25,7 +25,7 @@ I am continuously improving my technical skills by creating real projects, refin
 
 ## Tech Stack
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/C%23-111111?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-111111?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/ASP.NET%20Core-111111?style=for-the-badge&logo=dotnet&logoColor=white" />
