@@ -1,5 +1,8 @@
 <h1 align="center">Lucas de Castro Silva</h1>
-<h3 align="center">GPSI Student • Gen AI Intern at WIT Software • C#, .NET, Python and AI Projects</h3>
+
+<h3 align="center">
+Software Developer • GPSI Graduate • Former Gen AI Intern at WIT Software
+</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lucas-de-castro-s">
@@ -9,17 +12,20 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&lines=Building+practical+software+projects;Focused+on+C%23%2C+.NET%2C+SQL+and+Backend+Development;Gen+AI+Intern+at+WIT+Software;Always+learning%2C+building+and+improving" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Building+practical+software+solutions;Focused+on+C%23%2C+.NET%2C+APIs+and+Backend+Development;Experience+with+Generative+AI+at+WIT+Software;Always+learning%2C+building+and+improving" alt="Typing SVG" />
 </p>
 
 ---
 
 ## About Me
 
-I am a **GPSI student** at **Escola Secundária Avelar Brotero** and currently a **Generative AI Intern at WIT Software**.
+I am a **GPSI graduate (Management and Programming of Computer Systems)** from **Escola Secundária Avelar Brotero**, based in **Coimbra, Portugal**.
 
-I enjoy building practical and well-structured software projects, with a strong focus on **C#**, **.NET**, **SQL**, **backend development**, and **AI-powered applications**.  
-I am continuously improving my technical skills by creating real projects, refining my code structure, and learning more about **software architecture**, **APIs**, and **Generative AI**.
+I recently completed a **Generative AI internship at WIT Software**, where I worked with **Python, APIs, AI agents, databases, webhooks, LLM integrations, and conversational AI systems**.
+
+My main interests are **software development**, **backend development**, **C#**, **.NET**, **APIs**, **databases**, and **AI-powered applications**.
+
+I enjoy transforming ideas into practical software projects while continuously improving my knowledge of **software architecture**, **clean code**, **REST APIs**, **authentication**, **database design**, and modern development practices.
 
 ---
 
@@ -30,32 +36,81 @@ I am continuously improving my technical skills by creating real projects, refin
   <img src="https://img.shields.io/badge/.NET-111111?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/ASP.NET%20Core-111111?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ollama-111111?style=for-the-badge&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-111111?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white" />
 </p>
+
+---
+
+## Experience
+
+### Generative AI Intern — WIT Software
+
+Worked on the development and integration of **Generative AI and conversational AI solutions**, including:
+
+- Integration of **LLMs and AI agents**
+- Development with **Python**
+- API and webhook integrations
+- PostgreSQL / Supabase database integration
+- Conversational AI workflows
+- Voice and text-based AI interactions
+- Tool calling and agent workflows
+- Testing and improvement of AI application flows
 
 ---
 
 ## What I’m Focused On
 
-- Building practical applications with **C#** and **.NET**
-- Improving my knowledge of **SQL**, **MySQL**, and database-driven systems
-- Developing cleaner, better-structured, and more complete software projects
-- Expanding my experience in **Generative AI**
-- Strengthening my portfolio with real and useful work
+- Building applications with **C# and .NET**
+- Developing **REST APIs with ASP.NET Core**
+- Improving backend architecture and code organization
+- Working with **PostgreSQL, MySQL and relational databases**
+- Expanding my knowledge of **Generative AI and AI agents**
+- Building projects that solve real problems
+- Growing as a **software developer**
 
 ---
 
 ## Featured Areas
 
 - **Backend Development** with C# and .NET
-- **ASP.NET Core Web API** and authentication flows
-- **SQL / MySQL** and database modeling
-- **Python, FastAPI, and local AI applications**
-- **Practical Software Projects** focused on real use cases
+- **ASP.NET Core Web API**
+- **REST APIs and Authentication**
+- **JWT and OAuth / Google Authentication**
+- **PostgreSQL / MySQL**
+- **React applications**
+- **Python and FastAPI**
+- **Generative AI and AI Agents**
+- **Desktop Development with WPF**
+- **Software Architecture and API Integration**
+
+---
+
+## Featured Project
+
+### TaskGX
+
+A task management platform developed as my final GPSI project.
+
+The project includes:
+
+- **ASP.NET Core Web API**
+- **C# / .NET**
+- **PostgreSQL**
+- **React**
+- **WPF Desktop Application**
+- **JWT Authentication**
+- **Google Authentication**
+- Task lists, priorities and task management
+- REST API architecture connecting multiple applications to the same backend
+
+The project allowed me to apply concepts such as **MVVM, DTOs, Controllers, authentication, API architecture and relational database design**.
 
 ---
 
