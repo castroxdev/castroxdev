@@ -20,21 +20,17 @@ Estudante de Engenharia Informática • Programador Backend e IA • Ex-estagi�
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=850&lines=Estudante+de+Engenharia+Informática+no+ISEC;A+desenvolver+sistemas+backend+com+C%23+e+.NET;A+explorar+IA+generativa+e+agentes+de+IA;A+transformar+ideias+em+software+útil" alt="Apresentação animada" />
 </p>
 
----
+Sobre mim
 
-## Sobre mim
+Sou estudante de Engenharia Informática no ISEC — Instituto Superior de Engenharia de Coimbra, no Curso Europeu de Engenharia Informática.
 
-Sou **estudante de Engenharia Informática no ISEC — Instituto Superior de Engenharia de Coimbra**, no **Curso Europeu de Engenharia Informática**.
+Antes de entrar no ensino superior, concluí o curso profissional de GPSI (Gestão e Programação de Sistemas Informáticos) na Escola Secundária Avelar Brotero.
 
-Antes de entrar no ensino superior, concluí o curso profissional de **GPSI (Gestão e Programação de Sistemas Informáticos)** na **Escola Secundária Avelar Brotero**.
+Também realizei um estágio em Inteligência Artificial Generativa na WIT Software, onde trabalhei com Python, APIs, agentes de IA, integração de LLMs, bases de dados, webhooks e sistemas conversacionais por voz e texto.
 
-Também realizei um **estágio em Inteligência Artificial Generativa na WIT Software**, onde trabalhei com **Python, APIs, agentes de IA, integração de LLMs, bases de dados, webhooks e sistemas conversacionais por voz e texto**.
+Interesso-me especialmente por desenvolvimento backend, C# e .NET, APIs REST, bases de dados relacionais, arquitetura de software e aplicações com inteligência artificial. Gosto de criar projetos úteis, aprender através da prática e melhorar a estrutura, a fiabilidade e a experiência de utilização do software que desenvolvo.
 
-Interesso-me especialmente por **desenvolvimento backend, C# e .NET, APIs REST, bases de dados relacionais, arquitetura de software e aplicações com inteligência artificial**. Gosto de criar projetos úteis, aprender através da prática e melhorar a estrutura, a fiabilidade e a experiência de utilização do software que desenvolvo.
-
----
-
-## Tecnologias
+Tecnologias
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-111111?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
@@ -52,68 +48,63 @@ Interesso-me especialmente por **desenvolvimento backend, C# e .NET, APIs REST, 
   <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
----
+Experiência
 
-## Experiência
+Estagiário de Inteligência Artificial Generativa — WIT Software
 
-### Estagiário de Inteligência Artificial Generativa — WIT Software
+Participei no desenvolvimento e na integração de soluções de IA generativa e inteligência artificial conversacional, trabalhando em:
 
-Participei no desenvolvimento e na integração de **soluções de IA generativa e inteligência artificial conversacional**, trabalhando em:
+Integração de LLMs e agentes de IA
 
-- Integração de LLMs e agentes de IA
-- Serviços em Python e integrações com APIs
-- Webhooks e fluxos conversacionais
-- Integração com PostgreSQL e Supabase
-- Interações com IA através de voz e texto
-- Tool calling e fluxos de agentes com várias etapas
-- Testes, depuração e melhoria do comportamento das aplicações de IA
+Serviços em Python e integrações com APIs
 
----
+Webhooks e fluxos conversacionais
 
-## Projeto em destaque
+Integração com PostgreSQL e Supabase
 
-### TaskGX
+Interações com IA através de voz e texto
 
-O **TaskGX** é um ecossistema de gestão de tarefas desenvolvido como projeto final do curso de GPSI. Liga aplicações web e desktop ao mesmo backend e à mesma base de dados.
+Tool calling e fluxos de agentes com várias etapas
 
-**Principais tecnologias e conceitos:**
+Testes, depuração e melhoria do comportamento das aplicações de IA
 
-- ASP.NET Core Web API com C# e .NET
-- Aplicação web em React
-- Aplicação desktop WPF com MVVM
-- PostgreSQL alojado no Supabase
-- Autenticação JWT e Google
-- Arquitetura REST API, DTOs, controllers e modelação de dados relacionais
-- Listas, prioridades, etiquetas e gestão de tarefas
+Projeto em destaque
 
-Este projeto deu-me experiência prática na criação de um sistema completo, abrangendo as camadas de **backend, base de dados, web e desktop**.
+TaskGX
 
----
+O TaskGX é um ecossistema de gestão de tarefas desenvolvido como projeto final do curso de GPSI. Liga aplicações web e desktop ao mesmo backend e à mesma base de dados.
 
-## Atualmente
+Principais tecnologias e conceitos:
 
-- A aprofundar os meus conhecimentos de Engenharia Informática no ISEC
-- A desenvolver projetos de portefólio sob a marca **Guaxinim Studios**
-- A melhorar as minhas competências em arquitetura backend e desenho de APIs
-- A explorar aplicações práticas de IA generativa e agentes de IA
-- A desenvolver software leve que resolve problemas reais
+ASP.NET Core Web API com C# e .NET
 
----
+Aplicação web em React
 
-## Estatísticas do GitHub
+Aplicação desktop WPF com MVVM
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=castroxdev&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub de Lucas" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=castroxdev&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas" />
-</p>
+PostgreSQL alojado no Supabase
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=castroxdev&theme=tokyonight&hide_border=true" alt="Sequência de contribuições no GitHub" />
-</p>
+Autenticação JWT e Google
 
----
+Arquitetura REST API, DTOs, controllers e modelação de dados relacionais
 
-## Contacto
+Listas, prioridades, etiquetas e gestão de tarefas
+
+Este projeto deu-me experiência prática na criação de um sistema completo, abrangendo as camadas de backend, base de dados, web e desktop.
+
+Atualmente
+
+A aprofundar os meus conhecimentos de Engenharia Informática no ISEC
+
+A desenvolver projetos de portefólio sob a marca Guaxinim Studios
+
+A melhorar as minhas competências em arquitetura backend e desenho de APIs
+
+A explorar aplicações práticas de IA generativa e agentes de IA
+
+A desenvolver software leve que resolve problemas reais
+
+Contacto
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lucas-de-castro-s">
