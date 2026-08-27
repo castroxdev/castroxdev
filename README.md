@@ -20,21 +20,17 @@ Software Engineering Student • Backend & AI Developer • Former GenAI Intern 
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=850&lines=Software+Engineering+student+at+ISEC;Building+backend+systems+with+C%23+and+.NET;Exploring+Generative+AI+and+AI+agents;Turning+ideas+into+practical+software" alt="Typing introduction" />
 </p>
 
----
+About Me
 
-## About Me
+I am a Software Engineering student at ISEC — Instituto Superior de Engenharia de Coimbra, enrolled in the European Computer Engineering programme.
 
-I am a **Software Engineering student at ISEC — Instituto Superior de Engenharia de Coimbra**, enrolled in the **European Computer Engineering programme**.
+Before university, I completed the GPSI professional programme (Management and Programming of Computer Systems) at Escola Secundária Avelar Brotero.
 
-Before university, I completed the **GPSI professional programme (Management and Programming of Computer Systems)** at **Escola Secundária Avelar Brotero**.
+I also completed a Generative AI internship at WIT Software, where I worked with Python, APIs, AI agents, LLM integrations, databases, webhooks, and voice and text-based conversational systems.
 
-I also completed a **Generative AI internship at WIT Software**, where I worked with **Python, APIs, AI agents, LLM integrations, databases, webhooks, and voice and text-based conversational systems**.
+I am especially interested in backend development, C# and .NET, REST APIs, relational databases, software architecture, and AI-powered applications. I enjoy building useful projects, learning through practice, and improving the structure, reliability, and user experience of the software I create.
 
-I am especially interested in **backend development, C# and .NET, REST APIs, relational databases, software architecture, and AI-powered applications**. I enjoy building useful projects, learning through practice, and improving the structure, reliability, and user experience of the software I create.
-
----
-
-## Tech Stack
+Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-111111?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
@@ -52,68 +48,63 @@ I am especially interested in **backend development, C# and .NET, REST APIs, rel
   <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
----
+Experience
 
-## Experience
+Generative AI Intern — WIT Software
 
-### Generative AI Intern — WIT Software
+Contributed to the development and integration of Generative AI and conversational AI solutions, working on:
 
-Contributed to the development and integration of **Generative AI and conversational AI solutions**, working on:
+LLM and AI-agent integration
 
-- LLM and AI-agent integration
-- Python services and API integrations
-- Webhooks and conversational workflows
-- PostgreSQL and Supabase integration
-- Voice and text-based AI interactions
-- Tool calling and multi-step agent flows
-- Testing, debugging, and improving AI application behaviour
+Python services and API integrations
 
----
+Webhooks and conversational workflows
 
-## Featured Project
+PostgreSQL and Supabase integration
 
-### TaskGX
+Voice and text-based AI interactions
 
-**TaskGX** is a task-management ecosystem developed as my final GPSI project. It connects web and desktop clients to the same backend and database.
+Tool calling and multi-step agent flows
 
-**Main technologies and concepts:**
+Testing, debugging, and improving AI application behaviour
 
-- ASP.NET Core Web API with C# and .NET
-- React web application
-- WPF desktop application using MVVM
-- PostgreSQL hosted on Supabase
-- JWT and Google authentication
-- REST API architecture, DTOs, controllers, and relational data modelling
-- Task lists, priorities, labels, and task management
+Featured Project
 
-This project gave me practical experience designing a complete system across the **backend, database, web, and desktop layers**.
+TaskGX
 
----
+TaskGX is a task-management ecosystem developed as my final GPSI project. It connects web and desktop clients to the same backend and database.
 
-## Currently Working On
+Main technologies and concepts:
 
-- Advancing my software engineering knowledge at ISEC
-- Building portfolio projects under **Guaxinim Studios**
-- Improving my backend architecture and API design skills
-- Exploring practical uses for Generative AI and AI agents
-- Developing lightweight software that solves real problems
+ASP.NET Core Web API with C# and .NET
 
----
+React web application
 
-## GitHub Stats
+WPF desktop application using MVVM
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=castroxdev&show_icons=true&theme=tokyonight&hide_border=true" alt="Lucas's GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=castroxdev&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
-</p>
+PostgreSQL hosted on Supabase
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=castroxdev&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</p>
+JWT and Google authentication
 
----
+REST API architecture, DTOs, controllers, and relational data modelling
 
-## Connect With Me
+Task lists, priorities, labels, and task management
+
+This project gave me practical experience designing a complete system across the backend, database, web, and desktop layers.
+
+Currently Working On
+
+Advancing my software engineering knowledge at ISEC
+
+Building portfolio projects under Guaxinim Studios
+
+Improving my backend architecture and API design skills
+
+Exploring practical uses for Generative AI and AI agents
+
+Developing lightweight software that solves real problems
+
+Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lucas-de-castro-s">
